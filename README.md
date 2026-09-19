@@ -1,6 +1,6 @@
 # Ember & Oak — React
 
-A fictional coffee shop landing page for the Frontend Development Week 14 assignment, built with React + Vite + React Router.
+A fictional coffee shop landing page, built with React + Vite + React Router.
 
 ## Components
 
